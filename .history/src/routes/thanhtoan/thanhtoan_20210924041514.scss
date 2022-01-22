@@ -1,0 +1,28 @@
+.body{
+    margin-top: 30px;
+    width: 100%;
+    height: 500px;
+    margin-bottom: 30px;
+    .thanhtoan{
+        width: 60%;
+        margin: 0px auto;
+        background-color: rgb(190, 164, 164);
+        height: 500px;
+        &_card{
+            height: 50px;
+            background-color: red;
+            width: 100%;
+            display: flex;
+            margin: 0px auto;
+            justify-content: space-between;
+
+            &_img{
+                img{
+                    width: 50%;
+                }
+            }
+        }
+    }
+
+
+}

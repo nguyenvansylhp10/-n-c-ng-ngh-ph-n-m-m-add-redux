@@ -1,0 +1,33 @@
+.body {
+  margin-top: 30px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.body .thanhtoan {
+  width: 60%;
+  margin: 0px auto;
+  height: auto;
+}
+
+.body .thanhtoan_card {
+  height: 100px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0px auto;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 10px;
+}
+
+.body .thanhtoan_card_img img {
+  width: 100px;
+}
+/*# sourceMappingURL=Thanhtoan.css.map */

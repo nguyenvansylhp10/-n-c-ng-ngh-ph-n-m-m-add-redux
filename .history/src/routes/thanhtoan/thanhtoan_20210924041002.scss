@@ -1,0 +1,27 @@
+.body{
+    width: 100%;
+    height: auto;
+    .thanhtoan{
+        width: 60%;
+        height: 500px;
+        margin: 0px auto;
+    padding-bottom: 20px;
+
+        &_card{
+
+            width: 80%;
+            height: 150px;
+            display: flex;
+            margin: 0px auto;
+            justify-content: space-between;
+
+            &_img{
+                img{
+                    width: 50%;
+                }
+            }
+        }
+    }
+
+
+}
